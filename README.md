@@ -24,9 +24,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Added an app icon image for the app
-- [ ] Added a Launch Screen to the app
-- [ ] Added color for pleasant use
+- [X] Added an app icon image for the app
+- [X] Added a Launch Screen to the app
+- [X] Added color for pleasant use
 
 ## Video Walkthrough 
 
